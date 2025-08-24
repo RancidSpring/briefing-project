@@ -22,8 +22,9 @@ README.md
 
 ## Setup
 
-The project requires **Python 3.13** (make sure you have it installed).  
-Dependencies are listed in `requirements.txt`.  
+- The project requires **Python 3.13** (make sure you have it installed).  
+- Dependencies are listed in `requirements.txt`.  
+- Put the CSV data input in `data/raw/` before running the analysis.
 
 ```bash
 #!/usr/bin/env bash
